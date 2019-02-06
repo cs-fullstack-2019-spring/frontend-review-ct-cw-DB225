@@ -1,3 +1,6 @@
+### POINTS: 1.5
+### Did not detect CAT tie situation, but overall a really Nice Job! Great comments!
+
 # Frontend Review CT complete CW
 
 ### Exercise 1:
